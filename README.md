@@ -44,3 +44,7 @@ masuk | save options of the "Gerbang Masuk" dropdown
 keluar | save options of the "Gerbang Keluar" dropdown
 golongan | save options of the "Golongan Kendaraan" dropdown
 tarif | save the value of "Tarif Tol"
+
+Finally, I got 10602 rows of data
+
+![Data](https://github.com/MyArist/BPJT-Web-Scraper/blob/master/README/datas.png)
